@@ -4,14 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89015e30-7b47-4358-b678-689ad53bc8f6" name="Changes" comment="Variable in Java">
+    <list default="true" id="89015e30-7b47-4358-b678-689ad53bc8f6" name="Changes" comment="Casted division to double">
+      <change afterPath="$PROJECT_DIR$/src/org/iamflinks/helloworld/Operators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/iamflinks/helloworld/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/iamflinks/helloworld/Hello.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -65,7 +72,28 @@
       <option name="project" value="LOCAL" />
       <updated>1654493825279</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Variable in Java">
+      <created>1654494272797</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654494272797</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Arithmetic in java">
+      <created>1654494629185</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654494629185</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Casted division to double">
+      <created>1654494692056</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654494692056</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,6 +109,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Variable in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Variable in Java" />
+    <MESSAGE value="Arithmetic in java" />
+    <MESSAGE value="Casted division to double" />
+    <option name="LAST_COMMIT_MESSAGE" value="Casted division to double" />
   </component>
 </project>
