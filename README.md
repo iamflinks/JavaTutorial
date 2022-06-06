@@ -1,3 +1,3 @@
 # JavaTutorial
 
-## This project itemize my progress with Jave programming
+## This project itemize my progress with Java programming
