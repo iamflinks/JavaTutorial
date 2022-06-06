@@ -37,7 +37,7 @@ public class Hello {
         int mul = a * b;
         System.out.println(mul);
 
-        double div = a / b;
+        double div = (double) a / b;
         System.out.println(div);
 
 
