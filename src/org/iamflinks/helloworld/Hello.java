@@ -13,7 +13,7 @@ public class Hello {
         double numDouble = 13.00099;
         System.out.println(numDouble);
 
-        float numFloat = (float) 12.999099;
+        float numFloat = (float) 12.999909;
         System.out.println(numFloat);
     }
 }
