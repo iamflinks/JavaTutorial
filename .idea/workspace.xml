@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89015e30-7b47-4358-b678-689ad53bc8f6" name="Changes" comment="Casted division to double">
+    <list default="true" id="89015e30-7b47-4358-b678-689ad53bc8f6" name="Changes" comment="Added loops tutorial">
+      <change afterPath="$PROJECT_DIR$/src/org/iamflinks/helloworld/Challenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/iamflinks/helloworld/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/iamflinks/helloworld/Loops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/iamflinks/helloworld/Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/iamflinks/helloworld/Loops.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +27,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2ABoTQWZWU0i5zfwmQQlRcGLuRr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -40,7 +44,20 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Loops">
+  <component name="RunManager" selected="Application.Challenge">
+    <configuration name="Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.iamflinks.helloworld.Challenge" />
+      <module name="JavaTutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.iamflinks.helloworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.iamflinks.helloworld.Hello" />
       <module name="JavaTutorial" />
@@ -69,6 +86,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Challenge" />
         <item itemvalue="Application.Loops" />
         <item itemvalue="Application.Hello" />
       </list>
@@ -83,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1654492350425</updated>
       <workItem from="1656200638611" duration="20000" />
-      <workItem from="1657164506020" duration="1601000" />
+      <workItem from="1657164506020" duration="4971000" />
     </task>
     <task id="LOCAL-00001" summary="Variable in Java">
       <created>1654493825279</created>
@@ -113,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654494692056</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added loops tutorial">
+      <created>1657166285889</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657166285889</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +159,7 @@
     <MESSAGE value="Variable in Java" />
     <MESSAGE value="Arithmetic in java" />
     <MESSAGE value="Casted division to double" />
-    <option name="LAST_COMMIT_MESSAGE" value="Casted division to double" />
+    <MESSAGE value="Added loops tutorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added loops tutorial" />
   </component>
 </project>
