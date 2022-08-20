@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89015e30-7b47-4358-b678-689ad53bc8f6" name="Changes" comment="Added Guess game">
-      <change afterPath="$PROJECT_DIR$/src/org/iamflinks/helloworld/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/iamflinks/helloworld/Static.java" afterDir="false" />
+    <list default="true" id="89015e30-7b47-4358-b678-689ad53bc8f6" name="Changes" comment="Static methods and fields">
+      <change afterPath="$PROJECT_DIR$/src/org/iamflinks/helloworld/Inner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/iamflinks/helloworld/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/iamflinks/helloworld/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +119,7 @@
       <workItem from="1657253805036" duration="598000" />
       <workItem from="1657338723061" duration="43000" />
       <workItem from="1659242515160" duration="551000" />
-      <workItem from="1660961606570" duration="1718000" />
+      <workItem from="1660961606570" duration="1998000" />
     </task>
     <task id="LOCAL-00001" summary="Variable in Java">
       <created>1654493825279</created>
@@ -163,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657169740848</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Static methods and fields">
+      <created>1660963358349</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1660963358349</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +193,7 @@
     <MESSAGE value="Casted division to double" />
     <MESSAGE value="Added loops tutorial" />
     <MESSAGE value="Added Guess game" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Guess game" />
+    <MESSAGE value="Static methods and fields" />
+    <option name="LAST_COMMIT_MESSAGE" value="Static methods and fields" />
   </component>
 </project>
