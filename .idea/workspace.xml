@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89015e30-7b47-4358-b678-689ad53bc8f6" name="Changes" comment="Added loops tutorial">
-      <change afterPath="$PROJECT_DIR$/src/org/iamflinks/helloworld/Challenge.java" afterDir="false" />
+    <list default="true" id="89015e30-7b47-4358-b678-689ad53bc8f6" name="Changes" comment="Added Guess game">
+      <change afterPath="$PROJECT_DIR$/src/org/iamflinks/helloworld/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/iamflinks/helloworld/Static.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/iamflinks/helloworld/Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/iamflinks/helloworld/Loops.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Challenge">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.iamflinks.helloworld.Challenge" />
       <module name="JavaTutorial" />
@@ -84,8 +84,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.iamflinks.helloworld.Main" />
+      <module name="JavaTutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.iamflinks.helloworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Challenge" />
         <item itemvalue="Application.Loops" />
         <item itemvalue="Application.Hello" />
@@ -101,7 +115,11 @@
       <option name="presentableId" value="Default" />
       <updated>1654492350425</updated>
       <workItem from="1656200638611" duration="20000" />
-      <workItem from="1657164506020" duration="4971000" />
+      <workItem from="1657164506020" duration="6150000" />
+      <workItem from="1657253805036" duration="598000" />
+      <workItem from="1657338723061" duration="43000" />
+      <workItem from="1659242515160" duration="551000" />
+      <workItem from="1660961606570" duration="1718000" />
     </task>
     <task id="LOCAL-00001" summary="Variable in Java">
       <created>1654493825279</created>
@@ -138,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657166285889</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added Guess game">
+      <created>1657169740848</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657169740848</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +185,7 @@
     <MESSAGE value="Arithmetic in java" />
     <MESSAGE value="Casted division to double" />
     <MESSAGE value="Added loops tutorial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added loops tutorial" />
+    <MESSAGE value="Added Guess game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Guess game" />
   </component>
 </project>
